@@ -45,3 +45,6 @@ While we review this data it is important to keep in mind the sheer difference i
  
 
 ## Summary:   After reviewing the data, it is my opinion that a bike sharing market does not exist in Des Moines Iowa.  The population would not yield the usage amount that would be needed to make this a profitable model, people are far more likely to drive in Des Moines than ride bikes as the city grid is more spread out. In NYC where the streets are tightly packed with buildings and people, the use of a bike in a major city is feasible and realistic, in Des Moines this is not the case.  A bike sharing application would see less subscribers in Des Moines than in NYC, and this presents a monetary threat as most users in NYC were also subscribers.  While a relaxing bike ride on a sunny day in Des Moines could be fun, this does not mean it is a market that investors should feel safe about. 
+
+
+link to Dashboard:https://public.tableau.com/app/profile/connor.theodorakakos/viz/Bikesharing_Proposal_16562098144480/DesMoinesBikeSharing?publish=yes
